@@ -1,3 +1,4 @@
 "#Expectations for CMSC 100 by Ramnick Francis Ramos" 
 "Expectation #1: I expect to learn the basics of Web Programming and broaden my current knowledge in it. I look forward the most with committing to a learning experience that will equip me of the M-E-R-N stack." 
 "Expectation #2: I look forward also to making my learning in this course a viable side hustle. I look forward in learning how to integrate our skills with present content management system that is very in-demand as a parttime job for Computer Science Students" 
+"Expectation #3: I think in everything that I do, I always expect to find the joy in what I do. My taking of CMSC 100 is no different. I expect to have fun!" 
